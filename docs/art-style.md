@@ -83,7 +83,7 @@ Use these colors as the base. Tints and shades in between are fine as long as th
 - **Body:** heroic and athletic. Broad shoulders, **strong arms**, a slightly large head for readability at small sizes. Seated height is about **2.5 heads**.
 - **Gear:** full-face or open-face helmet with visor, gloves, elbow and knee pads, a jacket or jersey in hero colors.
 - **Customization later:** helmet, outfit, skin tone and hair must be easy to swap. Draw clean separable shapes. Don't let the helmet merge into the jacket.
-- **Final look:** decided with our playtester, who uses a wheelchair himself. Hero art isn't final until he approves it (label `needs-friend-review`).
+- **Final look:** set by the approved concept sheet (issue #1). Every hero asset must match it.
 
 ### The chair: a real WCMX / sports chair
 **Must have:**
@@ -217,4 +217,4 @@ For the hero, add:
 - [ ] Side view, facing the correct direction, light from top-left
 - [ ] Lines up with the shared canvas and anchor points (hero layers), or tiles seamlessly (backgrounds)
 - [ ] Looks right **in-game on a real device** next to the other assets
-- [ ] Hero and chair assets approved by our playtester (`needs-friend-review`)
+- [ ] Hero and chair assets match the approved concept sheet (#1)

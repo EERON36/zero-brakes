@@ -8,7 +8,7 @@ This file gives Claude Code the context it needs in every session. Read `docs/PL
 ## About the developer
 - A solo developer with a little game-making experience from years ago. **Explain technical choices in plain language.** Keep steps small and concrete.
 - The budget is close to zero: prefer free tools and Apple frameworks.
-- Playtests with a best friend who uses a wheelchair. Hero, chair, crash visuals and all game text go past him (`needs-friend-review` label).
+- The developer approves all art and design. A best friend who uses a wheelchair is **not** part of development. He'll play the first almost-finished version (via TestFlight) and give feedback then.
 - The repo was set up on Windows (M0). **All code is written and built on the Mac.**
 
 ## Tech stack
